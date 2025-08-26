@@ -1,1 +1,2 @@
-# ZJ-202508-SHUZIREN
+# chuner-256
+chuner-256-mode

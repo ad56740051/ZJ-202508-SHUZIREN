@@ -1,0 +1,6 @@
+__pycache__/
+.idea
+data
+funasr/iic
+models/wav2lip.pth
+python
